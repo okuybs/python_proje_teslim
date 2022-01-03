@@ -1,1 +1,5 @@
-# Hazırladığınız proje kodlarını, proje konusu ve ekibini tanıtan belgeyi ve projenizi anlatan kısa videoyu yeni dosya yükle seçeneği ile bu repo içerisine yükleyiniz
+## Hazırladığınız projeye ait:
+* Proje kodlarını, 
+* Proje konusu ve ekibini tanıtan belgeyi
+* Projenizi anlatan kısa videoyu (max 1dk veya 30mb)
+dosya yükle seçeneği ile bu repo içerisine yükleyiniz.
